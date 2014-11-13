@@ -9,3 +9,7 @@ drunken-tribble
 
 2.函数库说明
 
+3.javascript说明
+
+4.目录结构说明
+
